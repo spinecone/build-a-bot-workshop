@@ -5,4 +5,5 @@
 * Set up PythonAnywhere
 * Set up Twitter
 * Test your bot
+* Personalize your bot
 
