@@ -4,4 +4,5 @@
 * Set up GitHub
 * Set up PythonAnywhere
 * Set up Twitter
+* Test your bot
 
