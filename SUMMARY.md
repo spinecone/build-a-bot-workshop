@@ -6,4 +6,5 @@
 * Set up Twitter
 * Test your bot
 * Personalize your bot
+* What is a Twitter bot?
 
