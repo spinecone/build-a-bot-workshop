@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * What is a Twitter bot?
 * [How we'll build one](how_well_build_one.md)
-* Set up PythonAnywhere
+* [Set up PythonAnywhere](set_up_pythonanywhere.md)
 * [Set up GitHub](set_up_github.md)
 * Set up Twitter
 * Test your bot
