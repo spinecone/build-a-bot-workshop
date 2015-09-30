@@ -7,4 +7,5 @@
 * Set up Twitter
 * Test your bot
 * [Personalize your bot](personalize_your_bot.md)
+* What we're gonna do
 
