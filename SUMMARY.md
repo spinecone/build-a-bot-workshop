@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* What is a Twitter bot?
+* [What is a Twitter bot?](what_is_a_twitter_bot.md)
 * [How we'll build one](how_well_build_one.md)
 * [Set up PythonAnywhere](set_up_pythonanywhere.md)
 * [Set up GitHub](set_up_github.md)
