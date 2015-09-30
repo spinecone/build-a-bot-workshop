@@ -1,6 +1,6 @@
 I am indebted to 
 * 
-[Stefan Bohacek](https://twitter.com/fourtonfish) and [Philip James](https://twitter.com/phildini) for giving advice on hosting services.
+[Stefan Bohacek](https://twitter.com/fourtonfish) for writing https://botwiki.org/, a hugely important resource for me and for this workshop.
 * 
 [Thursday Bram](https://twitter.com/thursdayb) for encouraging me to speak at PyDX, despite having very little Python experience and even less speaking experience.
 * 
