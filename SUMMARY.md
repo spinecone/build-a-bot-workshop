@@ -5,7 +5,7 @@
 * [How we'll build one](how_well_build_one.md)
 * [Set up PythonAnywhere](set_up_pythonanywhere.md)
 * [Set up GitHub](set_up_github.md)
-* Set up Twitter
+* [Set up Twitter](set_up_twitter.md)
 * Test your bot
 * [Personalize your bot](personalize_your_bot.md)
 
