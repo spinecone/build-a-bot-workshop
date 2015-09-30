@@ -7,4 +7,4 @@ Fork the hello world bot template at https://github.com/tpinecone/hello-world-bo
 * 
 Copy the HTTPS clone url for the fork (it should resemble https://github.com/[your username]/hello-world-bot.git)
 * 
-Go back to the PythonAnywhere bash console and enter git clone [git url we
+Go back to the PythonAnywhere bash console and enter git clone [clone url]
