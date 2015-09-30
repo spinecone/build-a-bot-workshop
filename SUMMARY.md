@@ -8,4 +8,5 @@
 * [Set up Twitter](set_up_twitter.md)
 * [Test your bot](test_your_bot.md)
 * [Personalize your bot](personalize_your_bot.md)
+* Acknowledgements
 
