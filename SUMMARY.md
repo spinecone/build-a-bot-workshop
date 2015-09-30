@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * What is a Twitter bot?
-* How we'll build one
+* [How we'll build one](how_well_build_one.md)
 * Set up PythonAnywhere
 * [Set up GitHub](set_up_github.md)
 * Set up Twitter
