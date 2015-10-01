@@ -4,7 +4,7 @@ Our tools will be
 * 
 Content posted on [Twitter](http://www.twitter.com)
 * 
-[Tweepy](http://www.tweepy.org/) to simplify the Twitter API and authentication process
+[Tweepy](http://www.tweepy.org/), a Python library to simplify the Twitter API and authentication process
 * Hosting and scheduling on
 [PythonAnywhere](https://www.pythonanywhere.com)
 * 
