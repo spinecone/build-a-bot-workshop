@@ -5,4 +5,4 @@ A Twitter bot is any kind of program that posts generated content to Twitter, ei
 # Why should I make one?
 Because of their simplicity, bots are a fun project for both programmers looking for a creative outlet and creative people wanting to expand their programming skills.
 
-Traditional programming education does not usually allow for much creative expression.
+Traditional programming education does not usually allow for much creative expression. As aspiring programmers, we are often told that it is in our best interests (professionally, academically, etc.) to work on projects that can serve as a portfolio and teach us about software development. But what kind of projects?
