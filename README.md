@@ -6,6 +6,6 @@ Content posted on [Twitter](http://www.twitter.com)
 * 
 [Tweepy](http://www.tweepy.org/), a Python library to simplify the Twitter API and authentication process
 * Hosting and scheduling on
-[PythonAnywhere](https://www.pythonanywhere.com)
+[PythonAnywhere](https://www.pythonanywhere.com), a hosting service which has a browser UI for everything we'll be doing today so we won't need to install anything onto your personal computer.
 * 
 Version control on [GitHub](https://github.com/)
