@@ -8,6 +8,6 @@ Our tools will be
 * Hosting and scheduling on
 [PythonAnywhere](https://www.pythonanywhere.com), a hosting service which has a browser UI for everything we'll be doing today so that you won't need to install anything onto your personal computer.
 * 
-Version control on [GitHub](https://github.com/)
+Version control on [GitHub](https://github.com/).
 * 
-Public domain books from [Project Gutenberg](https://www.gutenberg.org/) for our practice bot
+Public domain books from [Project Gutenberg](https://www.gutenberg.org/) for our practice bot.
