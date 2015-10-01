@@ -9,7 +9,7 @@ There are tons of free, easily accessible data sources you can use to create int
 ****
 You can also check out the source code for these Python Twitter bots for ideas or examples:
 * 
-[@crystalliser](https://github.com/Autophagy/crystalliser-bot) "takes an image and 'crystallizes' it."
+[@crystalliser](https://github.com/Autophagy/crystalliser-bot) takes an image and "crystallizes" it.
 
 Happy building!
 
