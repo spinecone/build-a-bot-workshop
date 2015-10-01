@@ -7,6 +7,9 @@ There are tons of free, easily accessible data sources you can use to create int
 * **Tweepy**, the library we used to send tweets from our sample bot, can also be used to search and reply to tweets. Tweepy is very [well documented](http://tweepy.readthedocs.org/en/v3.2.0/).
 * **Google** has a lot of different free, public APIs that have basic authentication and usage limit requirements. The whole list of Google APIs is [here](https://developers.google.com/apis-explorer/#p/). [@earthroverbot](https://twitter.com/EarthRoverBot) and [@youareherebot](https://twitter.com/youareherebot/with_replies) use the [Google Maps](https://developers.google.com/maps/?hl=en) API.
 ****
+You can also check out the source code for these Python Twitter bots for ideas or examples:
+* 
+[@crystalliser](https://github.com/Autophagy/crystalliser-bot) "takes an image and 'crystallizes' it."
 
 Happy building!
 
