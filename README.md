@@ -2,7 +2,7 @@ Welcome to the Build-a-Bot workshop!
 =======
 Our tools will be
 * 
-[Twitter](http://www.twitter.com) where our bot's output will go
+[Twitter](http://www.twitter.com) where our bot's output will go.
 * 
 [Tweepy](http://www.tweepy.org/), a Python library to simplify the Twitter API and authentication process
 * Hosting and scheduling on
