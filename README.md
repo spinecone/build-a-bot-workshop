@@ -11,3 +11,5 @@ Our tools will be
 Version control on [GitHub](https://github.com/).
 * 
 Public domain books from [Project Gutenberg](https://www.gutenberg.org/) for our practice bot.
+
+Everyone has different skill levels and experience, so don't worry if you aren't familiar with some of these tools. We'll go into more depth about them in the next sections and you can always ask questions.
