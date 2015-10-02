@@ -1,4 +1,4 @@
-# Set up PythonAnywhere
+# Set up a PythonAnywhere account
 * 
 Sign up for PythonAnywhere at https://www.pythonanywhere.com/registration/register/beginner/
 * 
