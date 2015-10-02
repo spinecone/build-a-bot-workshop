@@ -1,5 +1,5 @@
 
-# Set up GitHub
+# Set up a GitHub account and fork
 * 
 If you don't have a GitHub account, you'll need to create one first at https://github.com/join (the free version will be fine)
 * 
