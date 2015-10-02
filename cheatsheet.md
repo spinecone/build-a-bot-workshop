@@ -3,6 +3,8 @@
 
 ## bash console commands
 
-show contents of current directory
-    ``ls``
+show contents of current directory:
+``ls``
+
+change directory: ``cd [directory name]``
 
