@@ -7,7 +7,12 @@ We're going to make a shell script which PythonAnywhere will execute on a schedu
 cd /home/$USER/hello-world-bot/
 python3 bot.py
 ```
-
+* 
+On the bash console, run 
+```sh
+chmod +x send_tweet.sh
+```
+This will give PythonAnywhere permission to run the script.
 * 
 Visit the "Schedule" tab on PythonAnywhere
 * Add a new scheduled task which points to /home/[your username]/hello-world-bot and runs within the next couple of minutes. ![](Screen Shot 2015-10-01 at 9.34.10 PM.png)
