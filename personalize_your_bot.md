@@ -22,6 +22,9 @@ You can also check out the source code for these Python Twitter bots for ideas o
 [@kaikkisanat](https://github.com/hugovk/everyfinnishword) is tweeting every word in Finnish.
 * [@permitbot](https://github.com/chagan/permitbot) reports on building permits filed in Chicago.
 
+BotWiki maintains a [list of Twitter bots](https://botwiki.org/bots/twitterbots) which are not all open source or in Python.
+
+
 
 Happy building!
 
