@@ -9,7 +9,7 @@ There are tons of free, easily accessible data sources you can use to create int
 * **Pokeapi** has a [wealth of pokemon data](http://pokeapi.co/) free and with no authentication steps.
 
 
-Here's a [list of Python API wrappers](https://github.com/realpython/list-of-python-api-wrappers)
+Here's a [list of Python API wrappers](https://github.com/realpython/list-of-python-api-wrappers).
 ****
 You can also check out the source code for these Python Twitter bots for ideas or examples:
 * 
