@@ -1,6 +1,6 @@
 Welcome to the Build-a-Bot workshop!
 =======
-This is a workshop for Python developers who would like to build their first Twitter bot.
+This is a workshop for Python developers who would like to build their first Twitter bot. We'll walk  you through setting up a 
 
 Our tools will be
 * 
