@@ -8,7 +8,7 @@ Visit https://apps.twitter.com/app/new to create a new Twitter application for t
 Once you have created an application for your account, visit the Keys and Access Tokens section.
 * Create a new access token.
 
-We will now take the authorization credentials we just received and put them in a secrets.py file. This will be used to authenticate with Twitter.
+We will now take the authorization credentials we just received and put them in a secrets.py file.
 
 * 
 Go back to our PythonAnywhere bash console.
