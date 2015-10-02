@@ -6,4 +6,6 @@ For this workshop, we'll start by making a simple template bot that tweets the t
 Clone the bot template from GitHub and find a book for it to tweet
 * Set up a Twitter acount for the bot
 * Test that the bot can tweet to the account we set up for it
-* Come up with interesting ideas and implement them!
+* Come up with interesting ideas and implement them
+* Schedule the bot to run once per day (we'll go over paid hosting options that will allow you to tweet multiple times per day)
+* Add the bot to the Bot Wiki
