@@ -8,7 +8,7 @@ cd /home/$USER/hello-world-bot/
 python3 bot.py
 ```
 * 
-On the bash console, run 
+On the bash console, make sure you're in the hello-world-bot directory and run 
 ```sh
 chmod +x send_tweet.sh
 ```
