@@ -15,6 +15,7 @@ You can also check out the source code for these Python Twitter bots for ideas o
 * [@gutendelight](https://github.com/hugovk/gutendelight) makes rhyming couplets out of hip hop lyrics and classic literature.
 * 
 [@kaikkisanat](https://github.com/hugovk/everyfinnishword) is tweeting every word in Finnish.
+* [@permitbot](https://github.com/chagan/permitbot) reports on building permits filed in Chicago.
 
 
 Happy building!
