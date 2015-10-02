@@ -10,4 +10,5 @@
 * [Personalize your bot](personalize_your_bot.md)
 * Add your bot to the Bot Wiki
 * [Acknowledgements](acknowledgements.md)
+* Set up scheduling
 
