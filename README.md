@@ -5,7 +5,7 @@ This is a workshop for Python developers who are interested in making small, cre
 
 Our tools will be
 * 
-[Twitter](http://www.twitter.com), a social network where our bot's output will go.
+[Twitter](http://www.twitter.com), an online social network where our bot's output will go.
 * 
 [Tweepy](http://www.tweepy.org/), a Python library to simplify the Twitter API and authentication process
 * Hosting and scheduling on
