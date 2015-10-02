@@ -1,4 +1,6 @@
-I am indebted to 
+💙💙💙💙💙💙💙💙💙💙💙💙💙💙💙�
+
+I am indebted to:
 * 
 [Stefan Bohacek](https://twitter.com/fourtonfish) for writing https://botwiki.org/, a hugely important resource for me and for this workshop.
 * 
