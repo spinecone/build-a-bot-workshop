@@ -11,4 +11,4 @@
 ## Git commands
 * show changes that have been made: ``git diff``
 * show current branch and files that have been changed: ``git status``
-* 
+* clone a repository: ``git clone [clone url]``
