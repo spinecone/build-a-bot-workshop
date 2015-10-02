@@ -9,3 +9,5 @@
 * change directory: ``cd [directory name]``
 
 * set permissions: ``chmod [permission flag]``
+
+##Git commands
