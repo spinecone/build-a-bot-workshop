@@ -13,4 +13,10 @@ We will now take the authorization credentials we just received and put them in 
 * 
 Go back to our PythonAnywhere bash console.
 * 
-Add a secrets.py file to the hello-world-bot directory. You can add the file using the "Files" tab the same way we added book.txt, or you can use a text editor like vim on the bash console. It should resemble this:![](Screen Shot 2015-09-29 at 10.46.40 PM.png)
+Add a secrets.py file to the hello-world-bot directory. You can add the file using the "Files" tab the same way we added book.txt, or you can use a text editor like vim on the bash console. It should resemble this:
+```py
+consumer_key = ""
+consumer_secret =""
+access_token = ""
+access_token_secret = ""
+```
