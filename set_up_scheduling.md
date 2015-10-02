@@ -16,5 +16,5 @@ chmod +x send_tweet.sh
 This will give PythonAnywhere permission to run the script.
 * 
 Visit the "Schedule" tab on PythonAnywhere
-* Add a new scheduled task which points to /home/[your username]/hello-world-bot and runs within the next couple of minutes. ![](Screen Shot 2015-10-01 at 9.34.10 PM.png)
+* Add a new scheduled task which points to /home/[your username]/hello-world-bot/send_tweet.sh and runs within the next couple of minutes. ![](Screen Shot 2015-10-01 at 9.34.10 PM.png)
 * You'll be able to tell if the scheduled task is working correctly if a tweet is posted at the time you configured it for. If something went wrong, you can remove the task and set it up again with a different time.
