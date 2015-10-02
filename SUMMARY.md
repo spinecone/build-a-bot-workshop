@@ -10,6 +10,6 @@
 * [Personalize your bot](personalize_your_bot.md)
 * [Set up scheduling](set_up_scheduling.md)
 * [Add your bot to the Bot Wiki](add_your_bot_to_the_bot_wiki.md)
-* Cheatsheet
+* [Cheatsheet](cheatsheet.md)
 * [Acknowledgements](acknowledgements.md)
 
