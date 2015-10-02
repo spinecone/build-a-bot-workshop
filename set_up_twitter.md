@@ -11,6 +11,6 @@ Once you have created an application for your account, visit the Keys and Access
 We will now take the authorization credentials we just received and put them in a secrets.py file. This will be used to authenticate with Twitter.
 
 * 
-Go back to our PythonAnywhere bash console
+Go back to our PythonAnywhere bash console.
 * 
 Add a secrets.py file to the hello-world-bot directory. It should resemble this:![](Screen Shot 2015-09-29 at 10.46.40 PM.png)
