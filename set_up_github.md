@@ -4,6 +4,8 @@
 If you don't have a GitHub account, you'll need to create one first at https://github.com/join (the free version will be fine)
 * 
 Fork the hello world bot template at https://github.com/tpinecone/hello-world-bot/
+
+(Note: by forking the hello world bot template, you'll be able to create a new git repo for your bot and changes you make to it. This won't be covered by this workshop.)
 * 
 Copy the HTTPS clone url for the fork (it should resemble https://github.com/[your username]/hello-world-bot.git)
 * 
