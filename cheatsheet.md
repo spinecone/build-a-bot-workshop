@@ -11,3 +11,4 @@
 * set permissions: ``chmod [permission flag]``
 
 ## Git commands
+* show changes that have been made: ``git diff``
