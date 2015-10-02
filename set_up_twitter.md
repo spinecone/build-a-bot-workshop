@@ -15,8 +15,8 @@ Go back to our PythonAnywhere bash console.
 * 
 Add a secrets.py file to the hello-world-bot directory. You can add the file using the "Files" tab the same way we added book.txt, or you can use a text editor like vim on the bash console. It should resemble this:
 ```py
-consumer_key = ""
-consumer_secret =""
-access_token = ""
-access_token_secret = ""
+consumer_key = "I'M A CONSUMER KEY"
+consumer_secret = "I'M A CONSUMER SECRET"
+access_token = "I'M AN ACCESS TOKEN"
+access_token_secret = "I'M AN ACCESS TOKEN SECRET"
 ```
