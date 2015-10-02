@@ -16,3 +16,5 @@ We'll now need to find a book for our bot to tweet from. https://www.gutenberg.o
 Open the PythonAnywhere home page in a new tab and go to the "Files" section
 * 
 Create a book.txt file inside the hello-world-bot directory and paste the text file into it (we could have created it in the bash console, but pasting large amounts of text into the browser bash console can cause problems).
+* 
+Remove any extraneous text, like the table of contents or appendix.
