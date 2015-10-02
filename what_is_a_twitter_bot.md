@@ -7,4 +7,4 @@ Because of their simplicity, bots are a fun project for both programmers looking
 
 Traditional programming education does not usually allow for much creative expression. As aspiring programmers, we are often told that it is in our best interests (professionally, academically, etc.) to work on projects that can serve as a portfolio and teach us about software development. But what kind of projects? A sharing economy startup? A new javascript framework? I have often wondered whether I deserve to be called a software developer because those projects were never of much interest to me.
 
-Twitter bots interest me because unlike many software projects that work hard to convince you of their importance and seriousness, Twitter bots are inherently irreverent. No one will ever get rich from a cool Twitter bot idea.
+Twitter bots interest me because unlike many software projects that work hard to convince you of their importance and seriousness, Twitter bots are inherently irreverent. No one will ever get rich from a cool Twitter bot idea. And yet people keep making them in all the different and fascinating ways that you can make art.
