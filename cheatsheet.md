@@ -12,3 +12,4 @@
 
 ## Git commands
 * show changes that have been made: ``git diff``
+* show files that have been made and current branch: ``git status``
