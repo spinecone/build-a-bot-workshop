@@ -10,8 +10,7 @@ Fork the hello world bot template at https://github.com/tpinecone/hello-world-bo
 Copy the HTTPS clone url for the fork (it should resemble https://github.com/[your username]/hello-world-bot.git)
 * 
 Go back to the PythonAnywhere bash console and enter ``git clone [clone url]``
-* 
-``cd hello-world-bot``
+
 
 We'll now need to find a book for our bot to tweet from. https://www.gutenberg.org/ has a wide selection of public domain books. Once you've found one, open the Plain Text version.
 * 
