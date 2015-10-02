@@ -12,6 +12,7 @@ You can also check out the source code for these Python Twitter bots for ideas o
 [@angryrichpeople](https://github.com/tpinecone/angry_rich_people) posts 1 star reviews of $$$$ Yelp reviews
 * 
 [@crystalliser](https://github.com/Autophagy/crystalliser-bot) takes an image and "crystallizes" it.
+* [@emoji_haiku](https://github.com/williln/emojihaiku) creates haikus out of emoji.
 * [@gutendelight](https://github.com/hugovk/gutendelight) makes rhyming couplets out of hip hop lyrics and classic literature.
 * 
 [@kaikkisanat](https://github.com/hugovk/everyfinnishword) is tweeting every word in Finnish.
