@@ -11,8 +11,11 @@ There are tons of free, easily accessible data sources you can use to create int
 
 
 Here's a [mostly complete list of Python API wrappers](https://github.com/realpython/list-of-python-api-wrappers).
+
+It's also possible to make a unique bot without many changes or additions to the template. [@everyportland](https://twitter.com/everyportland) is a bot that has very minor differences from the original template. It tweets from a list of English nouns instead of a book, plus a Portland-specific modifier (i.e. "Natural abacuses").
+
 ****
-You can also check out the source code for these Python Twitter bots for ideas or examples:
+You can check out the source code for these Python Twitter bots for ideas or examples:
 * 
 [@angryrichpeople](https://github.com/tpinecone/angry_rich_people) posts 1 star reviews of $$$$ Yelp reviews
 * 
