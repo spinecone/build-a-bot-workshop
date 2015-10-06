@@ -12,5 +12,5 @@
 * [Add your bot to the Bot Wiki](add_your_bot_to_the_bot_wiki.md)
 * [Cheatsheet](cheatsheet.md)
 * [Acknowledgements](acknowledgements.md)
-* Tell people about your bot
+* [Tell people about your bot](tell_people_about_your_bot.md)
 
