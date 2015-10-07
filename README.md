@@ -19,4 +19,4 @@ Everyone has different skill levels and experience, so don't worry if you aren't
 
 
 ## Credits
-This tutorial was written by [Terian Koscik](https://twitter.com/spine_cone) for [PyDX 2015](http://pydx.org/).
+This tutorial was written by [Terian Koscik](https://twitter.com/spine_cone) for [PyDX 2015](http://pydx.org/). You can view the source at https://github.com/tpinecone/build-a-bot-workshop.
