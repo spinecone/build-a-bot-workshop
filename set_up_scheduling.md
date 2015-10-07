@@ -1,4 +1,5 @@
 # Set up scheduling
+<center><img height="300" src="robot4.jpg"></center>
 We're going to make a shell script which PythonAnywhere will execute on a schedule. A free account is only allowed to run one scheduled task per day, but if you want to tweet more than that you can get unlimited scheduled tasks for about $5 per month on PythonAnywhere or other hosting services like Digital Ocean. You can read more about choosing and configuring hosting at [BotWiki](https://botwiki.org/tutorials/).
 
 For our free once per day bot,
