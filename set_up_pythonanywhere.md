@@ -1,4 +1,5 @@
 # Set up a PythonAnywhere account
+<img src="Screen Shot 2015-10-06 at 11.43.56 PM.png" height="250">
 * 
 Sign up for PythonAnywhere at https://www.pythonanywhere.com/registration/register/beginner/
 * 
