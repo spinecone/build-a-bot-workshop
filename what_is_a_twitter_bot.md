@@ -3,6 +3,7 @@ A Twitter bot is any kind of program that posts generated content to Twitter, ei
 <img src="Screen Shot 2015-09-29 at 11.41.44 PM.png" height="250">
 <img src="Screen Shot 2015-09-30 at 12.01.48 AM.png" height="250">
 <img src="Screen Shot 2015-10-06 at 9.11.34 PM.png" height="250">
+<img src="Screen Shot 2015-10-06 at 9.20.10 PM.png" height="250">
 bots by @spine_cone, @thrice_dotted, @muffinista,
 # Why should I make one?
 Because of their simplicity, bots are a fun project for both programmers looking for a creative outlet and creative people wanting to expand their programming skills.
