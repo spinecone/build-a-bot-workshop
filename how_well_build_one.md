@@ -1,4 +1,5 @@
 # How we'll build one
+<center><img src="robot3.jpg" height="300"></center>
 For this workshop, we'll start by making a simple template bot that tweets the text of a book 140 characters at a time. Then, we'll change its behavior to make a new bot. To do this we will:
 
 * Make an account on PythonAnywhere
