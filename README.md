@@ -1,6 +1,6 @@
 <center>Welcome to the Build-a-Bot workshop!</center>
 =======
-<center><img src="robot1.png" height="300"></center>
+<center><img src="robot1.jpg" height="300"></center>
 This is a workshop for Python developers who are interested in making small, creative programming projects and have never made a Twitter bot before. We'll walk  you through setting up a simple Twitter bot that tweets lines of a book 140 characters at a time. Then, we'll move on to customizing it using free, publicly accessible data sources and our imaginations. 🌈
 
 Our tools will be
