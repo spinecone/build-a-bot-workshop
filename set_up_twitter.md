@@ -24,3 +24,8 @@ consumer_secret = "I'M A CONSUMER SECRET"
 access_token = "I'M AN ACCESS TOKEN"
 access_token_secret = "I'M AN ACCESS TOKEN SECRET"
 ```
+
+* On the bash console, make sure you're in the hello-world-bot directory and run 
+```sh
+chmod o-r secrets.py 
+```
