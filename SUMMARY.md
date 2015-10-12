@@ -14,4 +14,5 @@
 * [Tell people about your bot](tell_people_about_your_bot.md)
 * [Cheatsheet](cheatsheet.md)
 * [Acknowledgements](acknowledgements.md)
+* Find a Book
 
