@@ -7,7 +7,7 @@
 * [Set up GitHub](set_up_github.md)
 * [Forking](forking.md)
 * [Copy to PythonAnywhere](copy_to_pythonanywhere.md)
-* Find a Book
+* [Find a Book](find_a_book.md)
 * [Set up Twitter](set_up_twitter.md)
 * [Test your bot](test_your_bot.md)
 * [Set up scheduling](set_up_scheduling.md)
