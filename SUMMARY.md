@@ -6,7 +6,7 @@
 * [Set up PythonAnywhere](set_up_pythonanywhere.md)
 * [Set up GitHub](set_up_github.md)
 * [Forking](forking.md)
-* Copy Bot to pythonanywhere
+* Copy to PythonAnywhere
 * [Set up Twitter](set_up_twitter.md)
 * [Test your bot](test_your_bot.md)
 * [Set up scheduling](set_up_scheduling.md)
