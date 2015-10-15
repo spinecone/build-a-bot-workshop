@@ -24,3 +24,8 @@ consumer_secret = "I'M A CONSUMER SECRET"
 access_token = "I'M AN ACCESS TOKEN"
 access_token_secret = "I'M AN ACCESS TOKEN SECRET"
 ```
+
+* The default on some systems is for new files to be publicly readable, so you should change the permissions on the secrets file so no one can hijack your Twitter account.  To remove the world-read permission, on the bash console, make sure you're in the hello-world-bot directory and run 
+```sh
+chmod o-r secrets.py 
+```
