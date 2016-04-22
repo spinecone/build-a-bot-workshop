@@ -16,7 +16,7 @@ It's also possible to make a unique bot without many changes or additions to the
 
 ****
 You can check out the source code for these Python Twitter bots for ideas or examples:
-*[@tacohelper](http://www.twitter.com/taco_helper) creates fantastical Taco Bell menu items and suggests them to specific people based on their recent tweets.
+*[@tacohelper](http://www.twitter.com/taco_helper) creates fantastical Taco Bell menu items and suggests them to specific people selected by their recent tweets.
 * 
 [@angryrichpeople](https://github.com/tpinecone/angry_rich_people) posts 1 star reviews of $$$$ Yelp reviews
 * 
