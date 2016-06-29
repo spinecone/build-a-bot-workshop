@@ -5,3 +5,4 @@ The template we're going to base a new bot on, Hello World Bot, is made up of 3 
 
 * 
 If you don't have a GitHub account, you'll need to create one first at https://github.com/join (the free version will be fine)
+
