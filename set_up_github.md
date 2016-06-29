@@ -6,3 +6,5 @@ The template we're going to base a new bot on, Hello World Bot, is made up of 3 
 * 
 If you don't have a GitHub account, you'll need to create one first at https://github.com/join (the free version will be fine)
 
+##What did we just do?
+GitHub is a service that allows us to share projects with others. It uses Git, a program for keeping track of changes to a project. There's nothing about Git or GitHub that's specific to programming. You could use it to keep track of changes to a novel or any other project you might want to share with other people, as long as it can be represented as a group of files.
