@@ -25,4 +25,6 @@ access_token = "I'M AN ACCESS TOKEN"
 access_token_secret = "I'M AN ACCESS TOKEN SECRET"
 ```
 ##What did we just do?
-Twitter needs to give your bot permission to post tweets via its API. Like many services, Twitter uses OAuth to grant that permission. Instead of just authenticating with your username and password, which could be dangerous if stolen, OAuth allows you to generate tokens that you can turn off or set to "read only."
+Twitter needs to give your bot permission to post tweets via its API. Like many services, Twitter uses OAuth to grant that permission. Instead of just authenticating with your username and password, which could compromise your account if stolen, OAuth allows you to generate tokens that you can turn off or set to "read only."
+
+OAuth can be a little complicated to set up, but most of that process is taken care of us by Tweepy, the library we're using to communicate with Twitter. You can read more about OAuth <a href="http://oauth.net/">here</a>.
