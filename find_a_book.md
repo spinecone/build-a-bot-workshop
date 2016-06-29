@@ -13,3 +13,6 @@ Create a file called book.txt inside the hello-world-bot directory and paste the
 ![](Screen Shot 2015-10-11 at 6.30.54 PM.png)
 * 
 Remove any extraneous text that you don't want to tweet, like the table of contents or appendix.
+
+##What did we just do?
+Project Gutenberg is a database of free books (the legal kind!). In order to run the hello-world-bot template, we need a text file called book.txt.
