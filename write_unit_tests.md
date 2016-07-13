@@ -4,3 +4,10 @@ Sweet! Your bot is tweeting on a schedule, and you're on your way to Twitter bot
 
 We can safely make changes and additions to our bot through the magic of ✨unit tests✨!
 
+There are 3 unit tests that are included in the hello-world-bot template. The tests check that:
+1. The bot will tweet sentences that are less than 140 characters.
+* If a sentence is longer than 140 characters, the bot will tweet up to 140 characters of it.
+* After tweeting, the bot will remove the text it just tweeted from the book file.
+
+Depending on the changes you made to personalize your bot, these tests probably aren't valid anymore. You can run the tests with ```python3 tests.py```.
+
