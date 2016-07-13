@@ -12,7 +12,7 @@
 * [Test your bot](test_your_bot.md)
 * [Set up scheduling](set_up_scheduling.md)
 * [Personalize your bot](personalize_your_bot.md)
-* Using an API
+* [Using an API](using_an_api.md)
 * [Write unit tests](write_unit_tests.md)
 * [Tell people about your bot](tell_people_about_your_bot.md)
 * [Cheatsheet](cheatsheet.md)
