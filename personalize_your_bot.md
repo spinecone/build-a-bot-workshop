@@ -31,7 +31,5 @@ You can check out the source code for these Python Twitter bots for ideas or exa
 
 BotWiki maintains a [list of Twitter bots](https://botwiki.org/bots/twitterbots) which are not all open source or written in Python.
 
-
-
-Happy building!
+Pick out a couple APIs that look interesting to you, even if you're not sure how you'll turn it into a bot. We'll go over how to use an API in the next chapter.
 
