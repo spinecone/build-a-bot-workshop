@@ -7,6 +7,6 @@ This url is an endpoint of the Pokéapi. It has extensive documentation at https
 
 The pile of text you're seeing is JSON, a data format that most programming languages can understand.
 
-<center><img height="100" src="001Bulbasaur_Dream.png"><br>
- ```"I'm machine-readable!"```
+<center><img height="100" src="001Bulbasaur_Dream.png"><br>"I'm machine-readable!"
 </center>
+
