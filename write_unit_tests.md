@@ -14,5 +14,5 @@ There are 3 unit tests that are included in the hello-world-bot template. The te
 You can run the tests with ```python3 tests.py```. However, depending on the changes you made to personalize your bot, these tests probably aren't valid anymore. Let's go over how these basic tests work(ed), and you can change them to fit your bot.
 
 <img src="Screen Shot 2016-07-12 at 11.46.02 PM.png">
-Since we don't want to affect the actual book we're tweeting from, we use a temporary file ("test_file") that we create and destroy in each test. For this test, the test_file just has two short sentences, in order to check that get_next_chunk() will return the entire first sentence if it's short enough.
+Since we don't want to affect the book we're actually tweeting from, we use a temporary file ("test_file") that we create and destroy in each test. For this test, the test_file just has two short sentences, in order to check that get_next_chunk() will return the entire first sentence if it's short enough.
 
