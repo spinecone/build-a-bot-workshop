@@ -9,5 +9,5 @@ There are 3 unit tests that are included in the hello-world-bot template. The te
 * If a sentence is longer than 140 characters, the bot will tweet up to 140 characters of it.
 * After tweeting, the bot will remove the text it just tweeted from the book file.
 
-Depending on the changes you made to personalize your bot, these tests probably aren't valid anymore. You can run the tests with ```python3 tests.py```.
+You can run the tests with ```python3 tests.py```. However, depending on the changes you made to personalize your bot, these tests probably aren't valid anymore. Let's go over how these basic tests work, and you can change them to fit your bot.
 
