@@ -13,3 +13,4 @@ There are 3 unit tests that are included in the hello-world-bot template. The te
 
 You can run the tests with ```python3 tests.py```. However, depending on the changes you made to personalize your bot, these tests probably aren't valid anymore. Let's go over how these basic tests work, and you can change them to fit your bot.
 
+<img src="Screen Shot 2016-07-12 at 11.46.02 PM.png">
