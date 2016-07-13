@@ -4,11 +4,13 @@ Sweet! Your bot is tweeting on a schedule, and you're on your way to Twitter bot
 
 We can safely make changes and additions to our bot through the magic of ✨unit tests✨!
 
-Unit tests check that every small part of a program works the way a programmer expects it to. For example, if you were programming a vending machine, you might write a unit test that checks that the machine gives you chips that cost a dollar if you put a dollar into the machine, and another test that it won't give you the chips if you only put in 50 cents. 
+Unit tests check that every small part of a program works the way a programmer expects it to. For example, if you were programming a vending machine, you might write a unit test that checks that the machine gives you chips if you put a dollar into the machine, and another test that it won't give you the chips if you only put in 50 cents. 
 
 In general, every unit test consists of some setup and one or more assertions. Here's how that might look with the vending machine from earlier.
 
 <img src="Screen Shot 2016-07-13 at 12.12.43 AM.png">
+
+The setup for both of these tests is that we initialize a VendingMachine object, and put some money into it. In the first test, we assert that "chips" is what we get back, while in the second test, our assertion is that "NOT ENOUGH!" is what the machine returns. For a real machine we would hope to receive real, edible chips, but for the purposes of our unit tests, the string "chips" will be just fine.
 
 There are 3 unit tests that are included in the hello-world-bot template. The tests check that:
 1. The bot will tweet sentences that are less than 140 characters.
