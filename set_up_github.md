@@ -1,11 +1,12 @@
 
 # Set up a GitHub account
 <img src="Screen Shot 2016-07-12 at 10.58.03 PM.png" height="350"><br>
-The template we're going to base a new bot on, Hello World Bot, is made up of 6 files.
+The template we're going to base a new bot on, Hello World Bot, is made up of 7 files (one of them is not visible in this screenshot. I'll explain why further down).
 * **README.md** is a file that most GitHub repos have. It describes what the project does and how to use it.
 * **book.txt** is where the text of a book will go.
 * **book_manager.py** handles the logic of getting lines out of our book file, and deleting them after they're tweeted.
 *  **bot.py** handles authenticating with Twitter and posting tweets.
+*  **tests.py** tests that the bot does what it's supposed to do. We'll cover the basics of unit testing in one of the last chapters.
 *  Finally, **secrets.py** will hold our authentication secrets which we'll cover in the next section. **secrets.py** is not included in the template repo since we don't want to make our authentication info publicly accessible.
 
 If you don't have a GitHub account, you'll need to create one first at https://github.com/join (the free version will be fine)
