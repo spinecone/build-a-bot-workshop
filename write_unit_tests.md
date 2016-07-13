@@ -10,7 +10,7 @@ In general, every unit test consists of some setup and one or more assertions. H
 
 <img src="Screen Shot 2016-07-13 at 12.12.43 AM.png">
 
-The setup for both of these tests is that we initialize a VendingMachine object, and put some money into it. In the first test, we assert that "chips" is what we get back after inserting 1 money, essentially a dollar. The second test asserts is that "NOT ENOUGH!" is what the machine returns for .5 money. For a real machine we would prefer to receive real, edible chips, but for the purposes of unit testing, the string "chips" will be just fine.
+The setup for both of these tests is that we initialize a VendingMachine object, and put some money into it. In the first test, we assert that "chips" is what we get back after inserting 1 money, essentially a dollar. The second test asserts is that "NOT ENOUGH!" is what the machine returns for .5 money. We would prefer to receive proper edible chips from a real machine, but for the purposes of unit testing, the string "chips" will be just fine.
 
 There are 3 unit tests that are included in the hello-world-bot template. The tests check that:
 1. The bot will tweet sentences that are less than 140 characters.
