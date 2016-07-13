@@ -10,7 +10,7 @@ Create a file called book.txt inside the hello-world-bot directory and paste the
 * Then:
 
 
-![](Screen Shot 2015-10-11 at 6.30.54 PM.png)
+![](5e50e7cf-4eb9-4a65-9e18-cfa5d4ee0e7c.png)
 * 
 Remove any extraneous text that you don't want to tweet, like the table of contents or appendix.
 
