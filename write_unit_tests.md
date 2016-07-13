@@ -24,3 +24,4 @@ You can run the tests with ```python3 tests.py```. However, depending on the cha
 <img src="Screen Shot 2016-07-12 at 11.46.02 PM.png">
 Since we don't want to affect the book we're actually tweeting from, we use a temporary file ("test_file") that we create and destroy in each test. For this test, the test_file just has two short sentences, in order to assert that get_next_chunk() will return the entire first sentence if it's short enough.
 
+This test uses mocking to run the bot with test_file instead of book.txt, which has some pretty complicated syntax. If you're interested in learning more about what's going on here, you can read more about mocking here: https://docs.python.org/3/library/unittest.mock.html
