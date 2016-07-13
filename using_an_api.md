@@ -8,3 +8,5 @@ The pile of text you're seeing is JSON, a data format that most programming lang
 You might also recognize it as data describing this thing: 
 
 <img height="100" src="001Bulbasaur_Dream.png">
+
+This is an endpoint of the Pokéapi. It has extensive documentation at https://pokeapi.co/ which describes all the different kinds of urls you can use to see Pokemon data.
