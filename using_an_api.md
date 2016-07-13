@@ -5,6 +5,6 @@ Let's use a much simpler example to look at how an API works. Try visiting the u
 
 The pile of text you're seeing is JSON, a data format that most programming languages can understand.
 
-(You might also recognize it as data describing this thing: 
+You might also recognize it as data describing this thing: 
 
 <img height="100" src="001Bulbasaur_Dream.png">
