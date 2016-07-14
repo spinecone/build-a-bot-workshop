@@ -15,7 +15,7 @@ The pile of text you're seeing is JSON, a data format that most programming lang
 We can use Python's <a href="http://docs.python-requests.org/en/master/">requests</a> and <a href="http://docs.python-guide.org/en/latest/scenarios/json/">json</a> libraries to read from JSON urls like this one:
 <img src="Screen Shot 2016-07-13 at 9.09.59 PM.png">
 
-You can read data from pretty much an API just by reading the API documentation and using requests.get() and json()!
+Now all you have to do is pass the text you've created from the data to Tweepy in order to tweet it. You can read data from pretty much an API just by reading the API documentation and using requests.get() and json()!
 
 
 
