@@ -1,7 +1,7 @@
 # Using an API
-An API is a set of instructions that programs can use to talk to each other. You've already been using the Twitter API to tell Twitter that your bot has permission to tweet on the account you created for it.
+An API is a set of instructions that programs can use to talk to each other. To make a Twitter bot, you might use an API to collect boring data and do something interesting to it. For example, <a href="https://twitter.com/how2butt">@how2butt</a> uses the <a href="https://www.mediawiki.org/wiki/API:Main_page">MediaWiki API</a> to find a random WikiHow article. Then, in order to make the world a better place, it replaces one of the words in the article's title with "butt."
 
-Let's use a much simpler example to look at how an API works. Try visiting the url http://pokeapi.co/api/v2/pokemon/1/ in your browser.
+You've already been using the Twitter API to tell Twitter that your bot has permission to tweet on the account you created for it. Let's use a much simpler example to look at how an API works. Try visiting the url http://pokeapi.co/api/v2/pokemon/1/ in your browser.
 
 This url is an endpoint of the Pokéapi. It has extensive documentation at https://pokeapi.co/ which describes all the different kinds of urls you can use to see Pokemon data.
 
