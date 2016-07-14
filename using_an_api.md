@@ -12,4 +12,6 @@ The pile of text you're seeing is JSON, a data format that most programming lang
 <center><img height="100" src="001Bulbasaur_Dream.png"><br>"I'm machine-readable!"
 </center>
 
-We can use Python's <a href="http://docs.python-requests.org/en/master/">requests</a> and <a href="http://docs.python-guide.org/en/latest/scenarios/json/">json</a> libraries to read from JSON urls like this one.
+We can use Python's <a href="http://docs.python-requests.org/en/master/">requests</a> and <a href="http://docs.python-guide.org/en/latest/scenarios/json/">json</a> libraries to read from JSON urls like this one:
+
+
