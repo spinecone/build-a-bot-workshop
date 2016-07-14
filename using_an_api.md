@@ -13,5 +13,7 @@ The pile of text you're seeing is JSON, a data format that most programming lang
 </center>
 
 We can use Python's <a href="http://docs.python-requests.org/en/master/">requests</a> and <a href="http://docs.python-guide.org/en/latest/scenarios/json/">json</a> libraries to read from JSON urls like this one:
+<img src="Screen Shot 2016-07-13 at 9.09.59 PM.png">
+
 
 
