@@ -1,9 +1,11 @@
 # What is a Twitter bot?
-A Twitter bot is any kind of program that posts generated content to Twitter, either on a regular schedule or in response to something. They can be funny or insightful or beautiful or anything else you can think of.<br><table border="0"><tr><td>
-<img src="Screen Shot 2015-10-06 at 9.20.10 PM.png" height="125"></td><td>
+A Twitter bot is any kind of program that posts generated content to Twitter, either on a regular schedule or in response to something. They can be funny or insightful or beautiful or anything else you can think of.
+
+<br><table border="0"><tr><td>
+<img src="assets/Screen Shot 2017-04-05 at 8.28.21 PM.png" height="200"></td><td>
 <img src="Screen Shot 2015-10-07 at 10.24.26 AM.png" height="200"></td></tr><tr><td><img src="Screen Shot 2015-09-30 at 12.01.48 AM.png" height="300"></td><td><img src="Screen Shot 2015-10-07 at 10.30.53 AM.png" height="300"></td><tr><td>
-<img src="Screen Shot 2015-09-29 at 11.41.44 PM.png" height="250"></td><td><img src="Screen Shot 2015-10-06 at 9.11.34 PM.png" height="125"></td></tr></table><br>
-bots by [@anyharder](https://twitter.com/anyharder), [@hugovk](https://twitter.com/hugovk), [@muffinista](https://twitter.com/muffinista), [@objelisks](https://twitter.com/objelisks), [@spine_cone](https://twitter.com/spine_cone), and [@thricedotted](https://twitter.com/thricedotted).
+<img src="Screen Shot 2015-09-29 at 11.41.44 PM.png" height="250"></td><td><img src="/assets/Screen Shot 2017-04-16 at 9.50.18 PM.png" height="200"></td></tr></table><br>
+bots by [@R4_Unit](https://twitter.com/R4_Unit), [@hugovk](https://twitter.com/hugovk), [@muffinista](https://twitter.com/muffinista), [@objelisks](https://twitter.com/objelisks), [@spine_cone](https://twitter.com/spine_cone), [@chrisrodley](https://twitter.com/chrisrodley), and [@yeldora_](https://twitter.com/yeldora_).
 # Why should I make one?
 Because of their simplicity, bots are a fun project for both programmers looking for a creative outlet and creative people wanting to expand their programming skills.
 
