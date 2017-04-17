@@ -9,4 +9,3 @@ Clone the bot template from GitHub and find a book for it to tweet
 * Test that the bot can tweet to the account we set up for it
 * Schedule the bot to run once per day (we'll go over paid hosting options that will allow you to tweet multiple times per day)
 * Come up with interesting ideas and implement them!
-* Add the bot to the [Bot Wiki](https://botwiki.org/bots/twitterbots) (extra credit)
